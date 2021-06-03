@@ -9,10 +9,10 @@
   <p align="center">
     Web layout solution based on the design of Frontend Mentor
     <br />
-    <a target="_blank" href="#"><strong>View design »</strong></a>
+    <a target="_blank" href="https://www.frontendmentor.io/solutions/stats-preview-card-component-solution-html5-css3-bem-QCrz6ndBt"><strong>View design»</strong></a>
     <br />
     <br />
-    <a target="_blank" href="#">View Solution Demo</a>
+    <a target="_blank" href="https://stats-preview-card-component-imfabra.vercel.app/">View Solution Demo</a>
     ·
     <a target="_blank" href="https://www.linkedin.com/in/danielj-fabra/">Contact Me</a>
     ·
@@ -38,8 +38,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -55,8 +53,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/stats-preview-card-component-solution-html5-css3-bem-QCrz6ndBt)
+- Live Site URL: [Live site URL](https://stats-preview-card-component-imfabra.vercel.app/)
 
 ## My process
 
