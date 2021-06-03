@@ -1,0 +1,20 @@
+.card__footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+}
+
+@media only screen and (min-width: 1024px) {
+    .card__footer {
+        justify-content: center;
+        flex-direction: row;
+    }
+}
+
+@media only screen and (min-width: 1120px) {
+    .card__footer {
+        justify-content: start;
+        gap: 63px;
+    }
+}

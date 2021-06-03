@@ -1,0 +1,7 @@
+.card__info--headline {
+    display: block;
+    font: var(--headline3) !important;
+    color: var(--color-text-primary) !important;
+    text-transform: none !important;
+    letter-spacing: 0px !important;
+}

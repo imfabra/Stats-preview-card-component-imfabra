@@ -1,0 +1,11 @@
+@import './--headline.css';
+
+.card__info {
+    font: var(--body2);
+    color: var(--color-text-secondary);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+
+    margin-block-start: 0;
+    margin-block-end: 0;
+}

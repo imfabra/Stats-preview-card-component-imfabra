@@ -1,0 +1,25 @@
+.card__main {
+    margin-inline-start: 31.5px;
+    margin-inline-end: 31.5px;
+    margin-block-start: 40px;
+    margin-block-end: 32px;
+}
+
+@media only screen and (min-width: 1024px) {
+    .card__main {
+        margin-inline-start: 40px;
+        margin-inline-end: 40px;
+        margin-block-start: 30px;
+        margin-block-end: 30px;
+        flex: 1;
+    }
+}
+
+@media only screen and (min-width: 1120px) {
+    .card__main {
+        margin-inline-start: 72px;
+        margin-inline-end: 95px;
+        margin-block-start: 72px;
+        margin-block-end: 60px;
+    }
+}

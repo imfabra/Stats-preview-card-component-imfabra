@@ -1,0 +1,16 @@
+.card__description {
+    font: var(--body1);
+    color: var(--color-text-secondary);
+    text-align: center;
+    margin-block-start: 16px;
+    margin-block-end: 40px;
+}
+
+@media only screen and (min-width: 1120px) {
+    .card__description {
+        text-align: start;
+        margin-block-start: 25px;
+        margin-block-end: 72px;
+        margin-inline-end: 25px;
+    }
+}

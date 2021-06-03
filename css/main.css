@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap');
+
+@import './Components/card/card.css';
+
+:root {
+    /* Colors */
+    --color-background: #0A0C1C;
+    --color-card-background: #1B1937;
+    --color-text-primary: #fff;
+    --color-text-secondary: rgba(255, 255, 255, 0.75);
+    --color-image: #AB5CDB;
+
+    /* Font Style */
+    --headline1: 700 36px/44px 'Inter', sans-serif;
+    --headline2: 700 28px/32px 'Inter', sans-serif;
+    --headline3: 700 24px/30px 'Inter', sans-serif;
+    --body1: 15px/25px 'Inter', sans-serif;
+    --body2: 500 12px/25px 'Inter', sans-serif;
+}
+
+*, 
+*:before, 
+*:after {
+	box-sizing: inherit;
+}
+
+html {
+	box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    inline-size: 100%;
+    min-block-size: 100vh;
+
+    background-color: var(--color-background);
+    color: var(--color-text-primary);
+}
+
+.container {
+    max-inline-size: 1440px;
+    block-size: 100vh;
+    margin: 0 auto;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

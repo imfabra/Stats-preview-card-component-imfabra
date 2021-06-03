@@ -1,0 +1,28 @@
+.card__header {
+    margin: 0;
+    inline-size: 100%;
+    block-size: 240px;
+    overflow: hidden;
+
+    background-color: var(--color-image);
+}
+
+@media only screen and (min-width: 1023px) {
+    .card__header {
+        block-size: 100%;
+        inline-size: 45%;
+    }
+}
+
+@media only screen and (min-width: 1120px) {
+    .card__header {
+        block-size: 100%;
+        inline-size: 450px;
+    }
+}
+
+@media only screen and (min-width: 1220px) {
+    .card__header {
+        inline-size: 540px;
+    }
+}
